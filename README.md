@@ -6,14 +6,14 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jeeva--s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Jeeva01790116" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-</div>
+
+<img align="right" height="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
+
+###
+
+<h4 align="left">•	Bug bounty hunter<br>•	Cybersecurity enthusiast<br>•	CTF player<br>•	Active practitioner on TryHackMe labs<br>•	to discovering vulnerabilities and enhancing digital security</h4>
+
+###
 
 ###
 
@@ -33,10 +33,11 @@
 
 ###
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
-
-###
-
-<h4 align="left">•	Bug bounty hunter<br>•	Cybersecurity enthusiast<br>•	CTF player<br>•	Active practitioner on TryHackMe labs<br>•	to discovering vulnerabilities and enhancing digital security</h4>
-
-###
+<div align="left">
+  <a href="https://www.linkedin.com/in/jeeva--s" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Jeeva01790116" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+</div>
