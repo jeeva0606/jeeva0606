@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">•	Bug bounty hunter<br>•	Cybersecurity enthusiast<br>•	CTF player<br>•	Active practitioner on TryHackMe labs<br>•	to discovering vulnerabilities and enhancing digital security</h4>
+<h4 align="left">•	Bug bounty hunter<br>•	Cybersecurity enthusiast<br>•	CTF player<br>•	Active practitioner on TryHackMe labs<br>•	To discovering vulnerabilities and enhancing digital security</h4>
 
 ###
 
